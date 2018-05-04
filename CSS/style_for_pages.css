@@ -1,0 +1,24 @@
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 1100px;
+    margin: auto;
+
+}
+
+.pictures {
+    height: 800px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.picture {
+   height: 350px;
+}

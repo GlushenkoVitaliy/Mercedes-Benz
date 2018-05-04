@@ -13,9 +13,9 @@
     align-items: center;
     justify-content: space-between;
 }
-.all_generations{
+#all_generations{
 
-    height: 1100px;
+    height: auto;
     display: flex;
     flex-flow: column wrap;
     align-items: center;
@@ -23,9 +23,8 @@
 
 }
 
-.first, .second, .third, .fourth, .fifth, .classes {
-    width: 1000px;
-
+.generation {
+    width: 1100px;
     display: flex;
     align-items: center;
     justify-content: space-around;
