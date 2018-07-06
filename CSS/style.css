@@ -35,3 +35,29 @@
 .picture {
     width: 290px;
 }
+
+.header_car_page {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_car_page {
+    width: 1100px;
+    margin: auto;
+
+}
+
+.pictures_car_page {
+    height: 800px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.picture_car_page {
+    height: 300px;
+    width: auto;
+}
